@@ -1,0 +1,13 @@
+{
+  "category": "FASHION",
+  "title": "The Return of Sculpted Couture",
+  "description": "A new wave of couture celebrates structure, craftsmanship, and the art of timeless beauty.",
+  "buttonText": "READ MORE",
+  "date": "MAY 11, 2026",
+  "image": "/images/fashion-hero.jpg",
+
+  "extraCategory": "TRENDING",
+  "extraTitle": "The Rise of Contemporary Luxury",
+  "extraDescription": "A closer look at the designers shaping the next chapter of modern fashion.",
+  "extraImage": "/images/trending-2.jpg"
+}
