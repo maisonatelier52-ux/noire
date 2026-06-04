@@ -69,7 +69,12 @@ export default function EditorsSection() {
       >
         {editorsPick.description}
       </p>
-
+      <p
+        className="mt-4 text-[11px] font-semibold uppercase tracking-[0.08em] text-[#847D79]"
+        style={{ fontFamily: "var(--font-inter)" }}
+      >
+        {editorsPick.featuredDate}
+      </p>
       <button className="mt-8 flex items-center gap-3 text-[14px] font-semibold uppercase tracking-[0.08em] text-[#E96A84] hover:text-[#D85C77]">
         {editorsPick.buttonText}
         <FiArrowRight size={18} />
@@ -121,7 +126,12 @@ export default function EditorsSection() {
         >
           {editorsPick.extraDescription}
         </p>
-
+        <p
+          className="mt-4 text-[11px] font-semibold uppercase tracking-[0.08em] text-[#847D79]"
+          style={{ fontFamily: "var(--font-inter)" }}
+        >
+          {editorsPick.extraDate}
+        </p>
         <button className="mt-8 flex items-center gap-3 text-[14px] font-semibold uppercase tracking-[0.08em] text-[#E96A84] hover:text-[#D85C77]">
           READ MORE
           <FiArrowRight size={18} />

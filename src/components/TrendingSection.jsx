@@ -72,7 +72,13 @@ export default function TrendingSection() {
           ))}
 
           {/* NEWSLETTER CARD */}
-<div className="overflow-hidden rounded-[18px] border border-[#F1D5D9] bg-[#ecbdc6] p-8">
+<div
+  className="overflow-hidden rounded-[18px] border border-[#F1D5D9] p-8 shadow-[0_20px_60px_rgba(233,106,132,0.18)]"
+  style={{
+    background:
+      "linear-gradient(135deg, #fff5f6 0%, #f6d4db 40%, #f2a6b3 100%)",
+  }}
+>
             <div className="flex h-full flex-col justify-between">
 
               <div>

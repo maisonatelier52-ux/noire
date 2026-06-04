@@ -4,14 +4,14 @@
     "category": "FASHION",
     "title": "Soft Pink Is the New Black",
     "date": "MAY 08, 2026",
-    "image": "/images/trending-2.jpg"
+    "image": "/images/trending-1.jpg"
   },
   {
     "id": 2,
     "category": "BEAUTY",
     "title": "Blush Tones for Every Skin Tone",
     "date": "MAY 10, 2026",
-    "image": "/images/trending-4.jpg"
+    "image": "/images/trending-2.jpg"
   },
   {
     "id": 3,
@@ -25,34 +25,6 @@
     "category": "WEDDING",
     "title": "Dreamy Details for Modern Brides",
     "date": "MAY 05, 2026",
-    "image": "/images/trending-1.jpg"
-  },
-  {
-    "id": 5,
-    "category": "RUNWAY",
-    "title": "The Return of Power Dressing",
-    "date": "MAY 04, 2026",
-    "image": "/images/trending-1.jpg"
-  },
-  {
-    "id": 6,
-    "category": "BEAUTY",
-    "title": "Luxury Fragrances Worth Trying",
-    "date": "MAY 03, 2026",
-    "image": "/images/trending-3.jpg"
-  },
-  {
-    "id": 7,
-    "category": "LIFESTYLE",
-    "title": "Curated Spaces, Elevated Living",
-    "date": "MAY 02, 2026",
-    "image": "/images/trending-2.jpg"
-  },
-  {
-    "id": 8,
-    "category": "FASHION",
-    "title": "Inside the Future of Couture",
-    "date": "MAY 01, 2026",
     "image": "/images/trending-4.jpg"
   }
 ]

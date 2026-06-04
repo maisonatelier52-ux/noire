@@ -3,7 +3,10 @@
 import Image from "next/image";
 import styleEditData from "@/data/styleEdit.json";
 
-export default function StyleEditSection() {
+export default function StyleEditSection({
+  title = "{title}",
+  data = [],
+}) {
   return (
     <section className="bg-[#f4dada] py-14">
       <div className="mx-auto max-w-[1440px] px-5 lg:px-10">
@@ -16,7 +19,7 @@ export default function StyleEditSection() {
               fontFamily: "var(--font-inter)",
             }}
           >
-            Style Edit
+            {title}
           </h2>
 
           <div className="h-[1px] w-12 bg-[#E96A84]" />
@@ -25,7 +28,7 @@ export default function StyleEditSection() {
         {/* Cards */}
         <div className="grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">
 
-          {styleEditData.map((item) => (
+          {data.map((item) => (
             <article key={item.id}>
 
               {/* IMAGE */}
