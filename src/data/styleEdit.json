@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "category": "FASHION",
+    "category": "LIFESTYLE",
     "title": "Soft Pink Is the New Black",
     "date": "MAY 08, 2026",
     "image": "/images/trending-1.jpg"
   },
   {
     "id": 2,
-    "category": "BEAUTY",
+    "category": "LIFESTYLE",
     "title": "Blush Tones for Every Skin Tone",
     "date": "MAY 10, 2026",
     "image": "/images/trending-2.jpg"
@@ -22,7 +22,7 @@
   },
   {
     "id": 4,
-    "category": "WEDDING",
+    "category": "LIFESTYLE",
     "title": "Dreamy Details for Modern Brides",
     "date": "MAY 05, 2026",
     "image": "/images/trending-4.jpg"

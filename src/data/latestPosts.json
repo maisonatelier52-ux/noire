@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "category": "LIFESTYLE",
+    "category": "BEAUTY",
     "title": "Minimal Luxury Takes Center Stage",
     "date": "MAY 11, 2026",
     "image": "/images/trending-4.jpg"
@@ -15,51 +15,58 @@
   },
   {
     "id": 3,
-    "category": "WEDDING",
+    "category": "BEAUTY",
     "title": "Modern Romance: 2026 Wedding Trends",
     "date": "MAY 07, 2026",
     "image": "/images/trending-2.jpg"
   },
   {
     "id": 4,
-    "category": "FASHION",
+    "category": "BEAUTY",
     "title": "Top Collections to Know from Paris Couture Week",
     "date": "MAY 16, 2026",
     "image": "/images/trending-1.jpg"
   },
   {
     "id": 5,
-    "category": "RUNWAY",
+    "category": "WEDDING",
     "title": "What This Trend Means for Fashion",
     "date": "MAY 15, 2026",
     "image": "/images/trending-2.jpg"
   },
   {
     "id": 6,
-    "category": "CELEBRITY",
+    "category": "WEDDING",
     "title": "Best Dressed Stars This Week",
     "date": "MAY 14, 2026",
     "image": "/images/trending-3.jpg"
   },
   {
     "id": 7,
-    "category": "LIFESTYLE",
+    "category": "WEDDING",
     "title": "Luxury Travel Destinations for 2026",
     "date": "MAY 13, 2026",
     "image": "/images/trending-4.jpg"
   },
   {
     "id": 8,
-    "category": "LIFESTYLE",
+    "category": "WEDDING",
     "title": "Luxury Travel Destinations for 2026",
     "date": "MAY 13, 2026",
     "image": "/images/trending-4.jpg"
   },
   {
     "id": 9,
-    "category": "LIFESTYLE",
+    "category": "WEDDING",
     "title": "Luxury Travel Destinations for 2026",
     "date": "MAY 13, 2026",
     "image": "/images/trending-4.jpg"
+  },
+  {
+    "id": 10,
+    "category": "WEDDING",
+    "title": "Best Dressed Stars This Week",
+    "date": "MAY 14, 2026",
+    "image": "/images/trending-3.jpg"
   }
 ]

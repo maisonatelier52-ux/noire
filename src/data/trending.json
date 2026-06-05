@@ -8,21 +8,21 @@
   },
   {
     "id": 2,
-    "category": "BEAUTY",
+    "category": "FASHION",
     "title": "Minimal Makeup, Maximum Impact",
     "date": "MAY 12, 2026",
     "image": "/images/trending-2.jpg"
   },
   {
     "id": 3,
-    "category": "RUNWAY",
+    "category": "FASHION",
     "title": "The Best Street Style Looks from Paris",
     "date": "MAY 15, 2026",
     "image": "/images/trending-3.jpg"
   },
   {
     "id": 4,
-    "category": "BEAUTY",
+    "category": "FASHION",
     "title": "The New Fragrance Obsession",
     "date": "MAY 14, 2026",
     "image": "/images/trending-4.jpg"

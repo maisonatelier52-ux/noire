@@ -17,6 +17,7 @@ const categories = [
 
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [activeCategory, setActiveCategory] = useState("");
   return (
     <header className="relative overflow-hidden border-b border-[#F1D5D9] bg-gradient-to-r from-[#FFF6F6] via-[#F8E7EA] to-[#F5DCE1]">
 <div className="absolute top-0 left-0 z-[5] h-px w-full bg-gradient-to-r from-transparent via-white/80 to-transparent" />
@@ -70,7 +71,7 @@ export default function Header() {
       <div className="relative z-10 mx-auto flex h-[88px] max-w-[1440px] items-center justify-between px-5 lg:px-10">
 
         {/* Logo */}
-        <Link href="/" className="shrink-0">
+        <Link href="#" className="shrink-0">
           <div>
             <h1
               className="text-[38px] leading-none tracking-[0.15em] text-[#1F1A17]"
@@ -96,26 +97,26 @@ export default function Header() {
         {/* Navigation */}
         <nav className="hidden md:flex items-center gap-12">
           {categories.map((item, index) => (
-            <Link
-              key={item}
-              href="#"
-              className={`group relative pb-2 text-[13px] font-medium uppercase tracking-[0.08em] transition-all duration-300 ${
-                index === 0
-                  ? "text-[#E96A84]"
-                  : "text-[#1F1A17] hover:text-[#D85C77]"
-              }`}
-            >
-              {item}
+        <Link
+          key={item}
+          href="#"
+          onClick={() => setActiveCategory(item)}
+          className={`group relative pb-2 text-[13px] font-medium uppercase tracking-[0.08em] transition-all duration-300 ${
+            activeCategory === item
+              ? "text-[#E96A84]"
+              : "text-[#1F1A17] hover:text-[#D85C77]"
+          }`}
+        >
+          {item}
 
-              <span
-                className={`absolute left-0 bottom-0 h-[1px]
-rounded-full bg-gradient-to-r from-[#E96A84] to-[#F2A6B3] transition-all duration-300 ${
-                  index === 0
-                    ? "w-full"
-                    : "w-0 group-hover:w-full"
-                }`}
-              />
-            </Link>
+          <span
+            className={`absolute left-0 bottom-0 h-[1px] rounded-full bg-gradient-to-r from-[#E96A84] to-[#F2A6B3] transition-all duration-300 ${
+              activeCategory === item
+                ? "w-full"
+                : "w-0 group-hover:w-full"
+            }`}
+          />
+        </Link>
           ))}
         </nav>
 
@@ -184,7 +185,7 @@ rounded-full bg-gradient-to-r from-[#E96A84] to-[#F2A6B3] transition-all duratio
       {categories.map((item) => (
         <Link
           key={item}
-          href="/"
+          href="#"
           onClick={() => setMenuOpen(false)}
           className="block border-b border-[#F1D5D9] pb-4 text-[14px] font-semibold uppercase tracking-[0.08em] text-[#1F1A17] transition hover:text-[#E96A84]"
         >
@@ -207,19 +208,19 @@ rounded-full bg-gradient-to-r from-[#E96A84] to-[#F2A6B3] transition-all duratio
 
       <div className="space-y-4">
 
-        <Link href="/" className="block text-[#4A4644]">
+        <Link href="#" className="block text-[#4A4644]">
           About Us
         </Link>
 
-        <Link href="/" className="block text-[#4A4644]">
+        <Link href="#" className="block text-[#4A4644]">
           Contact
         </Link>
 
-        <Link href="/" className="block text-[#4A4644]">
+        <Link href="#" className="block text-[#4A4644]">
           Privacy Policy
         </Link>
 
-        <Link href="/" className="block text-[#4A4644]">
+        <Link href="#" className="block text-[#4A4644]">
           Terms of Use
         </Link>
 

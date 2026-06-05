@@ -17,12 +17,12 @@ export default function Home() {
 <TrendingSection />
 <EditorsSection />
 <StyleEditSection
-  title="Style Edit"
+  title="Lifestyle"
   data={styleEditData}
 />
 <VideoSpotlightSection />
 <StyleEditSection
-  title="Fashion News"
+  title="Celebrity"
   data={fashionNewsData}
 />
       </main>

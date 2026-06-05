@@ -19,7 +19,7 @@ export default function VideoSpotlightSection() {
                 className="text-[14px] font-semibold uppercase tracking-[0.08em] text-[#4A4644]"
                 style={{ fontFamily: "var(--font-inter)" }}
               >
-                Video Spotlight
+                RUNWAY
               </h2>
 
               <div className="h-[1px] w-12 bg-[#E96A84]" />
@@ -92,7 +92,7 @@ export default function VideoSpotlightSection() {
                 className="text-[14px] font-semibold uppercase tracking-[0.08em] text-[#4A4644]"
                 style={{ fontFamily: "var(--font-inter)" }}
               >
-                Latest Stories
+                MORE ON RUNWAY
               </h2>
 
               <div className="h-[1px] w-12 bg-[#E96A84]" />

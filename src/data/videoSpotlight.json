@@ -1,6 +1,6 @@
 {
   "featured": {
-    "category": "FASHION FILM",
+    "category": "RUNWAY",
     "title": "Inside the World of Couture 2026",
     "description": "An exclusive look behind the scenes at the most breathtaking couture creations of the season.",
     "buttonText": "WATCH NOW",
@@ -18,28 +18,28 @@
     },
     {
       "id": 2,
-      "category": "BEAUTY",
+      "category": "RUNWAY",
       "title": "The Makeup Trends Taking Over Fashion Month",
       "date": "MAY 07, 2026",
       "image": "/images/trending-2.jpg"
     },
     {
       "id": 3,
-      "category": "LIFESTYLE",
+      "category": "RUNWAY",
       "title": "Luxury Interiors Inspired by Couture",
       "date": "MAY 09, 2026",
       "image": "/images/trending-3.jpg"
     },
     {
       "id": 4,
-      "category": "CELEBRITY",
+      "category": "RUNWAY",
       "title": "Best Dressed Stars of the Season",
       "date": "MAY 11, 2026",
       "image": "/images/trending-1.jpg"
     },
     {
       "id": 5,
-      "category": "LIFESTYLE",
+      "category": "RUNWAY",
       "title": "Luxury Interiors Inspired by Couture",
       "date": "MAY 09, 2026",
       "image": "/images/trending-3.jpg"

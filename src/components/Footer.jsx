@@ -13,8 +13,16 @@ import { RxCross2 } from "react-icons/rx";
 
 export default function Footer() {
   return (
-    <footer className="relative overflow-hidden border-t border-[#F1D5D9] bg-[#facfcf]">
+    <footer className="relative overflow-hidden border-t border-white/30 bg-gradient-to-br from-[#FFF7F8] via-[#F9E7EA] to-[#F4D6DC]">
+<div className="absolute top-0 left-0 z-[5] h-px w-full bg-gradient-to-r from-transparent via-white/90 to-transparent" />
 
+<div className="absolute inset-0 pointer-events-none overflow-hidden">
+
+  <div className="absolute left-[-100px] bottom-[-120px] h-[320px] w-[320px] rounded-full bg-[#F2A6B3]/20 blur-[140px]" />
+
+  <div className="absolute right-[-80px] top-[-100px] h-[280px] w-[280px] rounded-full bg-white/50 blur-[120px]" />
+
+</div>
       {/* BACKGROUND WAVES */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <svg
@@ -25,14 +33,14 @@ export default function Footer() {
           <path
             d="M900 20 C1100 80, 1300 10, 1600 70"
             fill="none"
-            stroke="#F6DADF"
+            stroke="#EBC4CB"
             strokeWidth="2"
           />
 
           <path
             d="M850 60 C1100 140, 1350 30, 1600 120"
             fill="none"
-            stroke="#F2B9C3"
+            stroke="#DFA7B3"
             strokeWidth="1.5"
             opacity="0.7"
           />
@@ -40,7 +48,7 @@ export default function Footer() {
           <path
             d="M950 0 C1200 100, 1450 20, 1600 90"
             fill="none"
-            stroke="#F6DADF"
+            stroke="#EBC4CB"
             strokeWidth="1"
             opacity="0.5"
           />
@@ -58,13 +66,9 @@ export default function Footer() {
 
             <Link href="/">
               <div>
-                <h2
-                  className="text-[42px] leading-none tracking-[0.15em] text-[#1F1A17]"
-                  style={{
-                    fontFamily: "var(--font-cormorant)",
-                    fontWeight: 500,
-                  }}
-                >
+<h2
+  className="text-[42px] leading-none tracking-[0.15em] text-[#1F1A17] drop-shadow-[0_2px_10px_rgba(255,255,255,0.4)]"
+>
                   NOIRÉ
                 </h2>
 
@@ -93,36 +97,31 @@ export default function Footer() {
             <div className="mt-8 flex items-center gap-6">
 
               <Link
-                href="/"
-                className="text-[#1F1A17] transition hover:text-[#E96A84]"
+                href="/" className="flex h-11 w-11 items-center justify-center rounded-full border border-white/40 bg-white/40 backdrop-blur-sm text-[#1F1A17] transition-all duration-300 hover:scale-105 hover:border-[#E96A84]/40 hover:text-[#E96A84]"
               >
                 <FaInstagram size={24} />
               </Link>
 
               <Link
-                href="/"
-                className="text-[#1F1A17] transition hover:text-[#E96A84]"
+                href="/" className="flex h-11 w-11 items-center justify-center rounded-full border border-white/40 bg-white/40 backdrop-blur-sm text-[#1F1A17] transition-all duration-300 hover:scale-105 hover:border-[#E96A84]/40 hover:text-[#E96A84]"
               >
                 <FaFacebookF size={22} />
               </Link>
 
               <Link
-                href="/"
-                className="text-[#1F1A17] transition hover:text-[#E96A84]"
+                href="/" className="flex h-11 w-11 items-center justify-center rounded-full border border-white/40 bg-white/40 backdrop-blur-sm text-[#1F1A17] transition-all duration-300 hover:scale-105 hover:border-[#E96A84]/40 hover:text-[#E96A84]"
               >
                 <FaPinterestP size={23} />
               </Link>
 
               <Link
-                href="/"
-                className="text-[#1F1A17] transition hover:text-[#E96A84]"
+                href="/" className="flex h-11 w-11 items-center justify-center rounded-full border border-white/40 bg-white/40 backdrop-blur-sm text-[#1F1A17] transition-all duration-300 hover:scale-105 hover:border-[#E96A84]/40 hover:text-[#E96A84]"
               >
                 <RxCross2 size={25} />
               </Link>
 
               <Link
-                href="/"
-                className="text-[#1F1A17] transition hover:text-[#E96A84]"
+                href="/" className="flex h-11 w-11 items-center justify-center rounded-full border border-white/40 bg-white/40 backdrop-blur-sm text-[#1F1A17] transition-all duration-300 hover:scale-105 hover:border-[#E96A84]/40 hover:text-[#E96A84]"
               >
                 <FaYoutube size={24} />
               </Link>
@@ -225,7 +224,9 @@ export default function Footer() {
             </p>
 
             {/* INPUT */}
-            <div className="mt-8 flex overflow-hidden rounded-[10px] border border-[#F1D5D9] bg-white">
+            <div
+className="mt-8 flex overflow-hidden rounded-[14px] border border-white/40 bg-white/60 backdrop-blur-xl shadow-[0_20px_60px_rgba(0,0,0,0.05)]"
+>
 
 <input
   type="email"
@@ -233,7 +234,9 @@ export default function Footer() {
   className="h-[58px] flex-1 bg-transparent px-5 text-[15px] text-[#1F1A17] outline-none placeholder:text-[#847D79]"
 />
 
-<button className="flex w-[72px] items-center justify-center bg-[#E96A84] transition hover:bg-[#D85C77]">
+<button
+className="flex w-[72px] items-center justify-center bg-gradient-to-br from-[#E96A84] to-[#F2A6B3] text-white transition-all duration-300 hover:scale-105 hover:shadow-[0_8px_30px_rgba(233,106,132,0.30)]"
+>
                 <FiArrowRight
                   size={22}
                   className="text-white"
@@ -245,10 +248,10 @@ export default function Footer() {
         </div>
 
         {/* BOTTOM */}
-        <div className="mt-14 border-t border-[#F1D5D9] pt-7 text-center">
+        <div className="mt-16 border-t border-white/30 pt-8 text-center">
 
           <p
-            className="text-[14px] text-[#847D79]"
+            className="text-[14px] text-[#6F6764]"
             style={{
               fontFamily: "var(--font-inter)",
             }}
