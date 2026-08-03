@@ -1,9 +1,9 @@
 "use client";
 
-import trendingData from "@/data/trending.json";
+import fashionData from "@/data/fashion.json";
 import Image from "next/image";
 
-export default function Fashion() {
+export default function FashionSection() {
   return (
     <section className="bg-[#f4dada] py-6 sm:py-8 md:py-10">
       <div className="mx-auto max-w-[1440px] px-5 lg:px-10">
@@ -22,7 +22,7 @@ export default function Fashion() {
         <div className="grid gap-4 sm:gap-5 md:gap-6 xl:grid-cols-[1fr_1fr_1fr_1fr_280px]">
 
           {/* ARTICLES */}
-          {trendingData.map((item) => (
+{(fashionData.articles || []).map((item) => (
             <article key={item.id} className="flex flex-col">
               <div className="aspect-[4/3] w-full overflow-hidden rounded-[14px] border border-[#F1D5D9] bg-[#F8E1E1]">
                 <Image

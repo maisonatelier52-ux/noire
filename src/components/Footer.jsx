@@ -147,7 +147,7 @@ export default function Footer() {
                 "Beauty",
                 "Wedding",
                 "Lifestyle",
-                "Runway",
+                "Culture",
                 "Celebrity",
               ].map((item) => (
                 <li key={item}>

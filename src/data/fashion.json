@@ -1,0 +1,41 @@
+{
+  "category": "Fashion",
+  "articles": [
+    {
+      "id": 1,
+      "category": "FASHION",
+      "title": "Minimal Makeup, Maximum Impact",
+      "subtitle": "Effortless beauty takes the spotlight this season with clean, fresh looks.",
+      "date": "MAY 10, 2026",
+      "image": "/images/trending-1.jpg",
+      "author": { "name": "Sophia Delacroix", "slug": "sophia-delacroix" }
+    },
+    {
+      "id": 2,
+      "category": "FASHION",
+      "title": "Minimal Makeup, Maximum Impact",
+      "subtitle": "Why the 'no-makeup' makeup trend is here to stay.",
+      "date": "MAY 12, 2026",
+      "image": "/images/trending-2.jpg",
+      "author": { "name": "Sophia Delacroix", "slug": "sophia-delacroix" }
+    },
+    {
+      "id": 3,
+      "category": "FASHION",
+      "title": "The Best Street Style Looks from Paris",
+      "subtitle": "The fashion crowd brought their A-game to the streets of Paris this season.",
+      "date": "MAY 15, 2026",
+      "image": "/images/trending-3.jpg",
+      "author": { "name": "Sophia Delacroix", "slug": "sophia-delacroix" }
+    },
+    {
+      "id": 4,
+      "category": "FASHION",
+      "title": "The New Fragrance Obsession",
+      "subtitle": "Discover the scents that are captivating the fashion world right now.",
+      "date": "MAY 14, 2026",
+      "image": "/images/trending-4.jpg",
+      "author": { "name": "Sophia Delacroix", "slug": "sophia-delacroix" }
+    }
+  ]
+}

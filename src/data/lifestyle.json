@@ -1,0 +1,41 @@
+{
+  "category": "Lifestyle",
+  "articles": [
+    {
+      "id": 1,
+      "category": "LIFESTYLE",
+      "title": "Soft Pink Is the New Black",
+      "subtitle": "How rose tones are taking over interiors, fashion, and beauty.",
+      "date": "MAY 08, 2026",
+      "image": "/images/trending-1.jpg",
+      "author": { "name": "Olivia Greene", "slug": "olivia-greene" }
+    },
+    {
+      "id": 2,
+      "category": "LIFESTYLE",
+      "title": "Blush Tones for Every Skin Tone",
+      "subtitle": "The ultimate guide to finding your perfect blush shade.",
+      "date": "MAY 10, 2026",
+      "image": "/images/trending-2.jpg",
+      "author": { "name": "Olivia Greene", "slug": "olivia-greene" }
+    },
+    {
+      "id": 3,
+      "category": "LIFESTYLE",
+      "title": "The Art of Elegant Living",
+      "subtitle": "Simple practices to bring more elegance and intention into your daily life.",
+      "date": "MAY 06, 2026",
+      "image": "/images/trending-3.jpg",
+      "author": { "name": "Olivia Greene", "slug": "olivia-greene" }
+    },
+    {
+      "id": 4,
+      "category": "LIFESTYLE",
+      "title": "Dreamy Details for Modern Brides",
+      "subtitle": "From table settings to floral arrangements, the details that make a wedding unforgettable.",
+      "date": "MAY 05, 2026",
+      "image": "/images/trending-4.jpg",
+      "author": { "name": "Olivia Greene", "slug": "olivia-greene" }
+    }
+  ]
+}

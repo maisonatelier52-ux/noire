@@ -1,0 +1,90 @@
+{
+  "elenavogue": {
+    "name": "Elena Vogue",
+    "title": "Beauty Editor",
+    "bio": "Elena has spent a decade in the beauty industry, from Parisian runways to New York labs. She's passionate about clean beauty, skin science, and the art of self-care.",
+    "image": "/images/authors/beauty.jpg",
+    "category": "beauty",
+    "social": {
+      "instagram": "@elenavogue",
+      "twitter": "@elenabeauty"
+    }
+  },
+  "clara-thorne": {
+    "name": "Clara Thorne",
+    "title": "Senior Beauty Writer",
+    "bio": "Clara has her finger on the pulse of the beauty industry. From the streets of Paris to the labs of Seoul, she covers the stories that matter.",
+    "image": "/images/authors/clarathorne.webp",
+    "category": "beauty",
+    "social": {
+      "instagram": "@clarathorne",
+      "twitter": "@clarathorne"
+    }
+  },
+  "celestearnaud": {
+    "name": "Celeste Arnaud",
+    "title": "Skincare Specialist",
+    "bio": "Celeste is a certified esthetician with a passion for holistic skincare. She believes true beauty starts with healthy, radiant skin.",
+    "image": "/images/authors/celeste-arnaud.jpg",
+    "category": "beauty",
+    "social": {
+      "instagram": "@celestearnaud",
+      "twitter": "@celesteskincare"
+    }
+  },
+  "marcus-sterling": {
+    "name": "Marcus Sterling",
+    "title": "Celebrity Editor",
+    "bio": "Marcus brings you the latest from Hollywood and beyond. With a sharp eye for style and a nose for news, he's your go-to for all things celebrity.",
+    "image": "/images/authors/marcussterling.webp",
+    "category": "celebrity",
+    "social": {
+      "instagram": "@marcussterling",
+      "twitter": "@marcusceleb"
+    }
+  },
+  "sophia-delacroix": {
+    "name": "Sophia Delacroix",
+    "title": "Fashion Editor",
+    "bio": "Sophia has been at the forefront of fashion for over 15 years, covering the world's biggest shows and discovering emerging talent. She believes style is a language.",
+    "image": "/images/authors/sophiadelacroix.webp",
+    "category": "fashion",
+    "social": {
+      "instagram": "@sophiadelacroix",
+      "twitter": "@sophiadelacroix"
+    }
+  },
+  "olivia-greene": {
+    "name": "Olivia Greene",
+    "title": "Lifestyle Writer",
+    "bio": "Olivia explores the intersection of wellness, travel, and modern living. She finds joy in simple pleasures and sharing stories that inspire a balanced life.",
+    "image": "/images/authors/oliviagreene.webp",
+    "category": "lifestyle",
+    "social": {
+      "instagram": "@oliviagreene",
+      "twitter": "@olivialife"
+    }
+  },
+  "margaret-hayes": {
+    "name": "Margaret Hayes",
+    "title": "Culture Critic",
+    "bio": "Margaret examines the arts, literature, and society with a critical and compassionate lens. She believes culture is the heartbeat of humanity.",
+    "image": "/images/authors/margarethayes.webp",
+    "category": "culture",
+    "social": {
+      "instagram": "@margarethayes",
+      "twitter": "@margarethayes"
+    }
+  },
+  "sophie-hart": {
+    "name": "Sophie Hart",
+    "title": "Wedding Editor",
+    "bio": "Sophie has planned and attended countless weddings, from intimate elopements to grand celebrations. She shares inspiration, tips, and real‑love stories.",
+    "image": "/images/authors/sophiehart.webp",
+    "category": "wedding",
+    "social": {
+      "instagram": "@sophiehartwed",
+      "twitter": "@hartweddings"
+    }
+  }
+}

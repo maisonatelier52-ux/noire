@@ -1,0 +1,247 @@
+{
+  "category": "BEAUTY",
+  "title": "The Return of Sculpted Couture",
+  "description": "A new wave of couture celebrates structure, craftsmanship, and the art of timeless beauty.",
+  "buttonText": "READ MORE",
+  "image": "/images/fashion-hero.jpg",
+  "featuredDate": "MAY 25, 2026",
+  "extraCategory": "BEAUTY",
+  "extraTitle": "The Rise of Contemporary Luxury",
+  "extraDescription": "A closer look at the designers shaping the next chapter of modern fashion.",
+  "extraImage": "/images/trending-2.jpg",
+  "extraDate": "MAY 31, 2026",
+  "articles": [
+    {
+      "id": 1,
+      "slug": "minimal-luxury-takes-center-stage",
+      "category": "BEAUTY",
+      "title": "Minimal Luxury Takes Center Stage",
+      "subtitle": "How understated elegance became beauty's most powerful statement this season.",
+      "date": "MAY 11, 2026",
+      "readTime": "6 min read",
+      "image": "/images/trending-4.jpg",
+      "heroImage": "/images/trending-4.jpg",
+      "author": {
+        "name": "Clara Thorne",
+        "slug": "clara-thorne",
+        "avatar": "/images/trending-1.jpg"
+      },
+      "seo": {
+        "metaTitle": "Minimal Luxury Takes Center Stage | Noiré Beauty",
+        "metaDescription": "Discover how minimal luxury is redefining beauty in 2026 — clean formulas, refined rituals, and effortless elegance.",
+        "keywords": ["minimal luxury", "beauty trends 2026", "clean beauty", "skincare"]
+      },
+      "sections": [
+        {
+          "id": "the-quiet-revolution",
+          "heading": "The Quiet Revolution",
+          "body": "Across runways and editorial spreads, a shift is unmistakable. The maximalist excess of recent seasons has given way to something far more considered — beauty that whispers rather than shouts. Minimal luxury isn't about doing less; it's about doing everything with intention."
+        },
+        {
+          "id": "skin-as-canvas",
+          "heading": "Skin as Canvas",
+          "body": "The movement begins with skin. Brands like La Mer, Sisley, and Augustinus Bader have led a generation of consumers away from heavy coverage toward formulas that enhance rather than conceal. Tinted serums, skin tints, and breathable foundations are the new foundation of the look.",
+          "image": "/images/trending-4.jpg"
+        },
+        {
+          "id": "the-minimal-palette",
+          "heading": "The Minimal Palette",
+          "body": "Colour is not absent — it is curated. A single swipe of rose on the cheek, a precise sweep of brown-black liner, lips in their most natural, polished state. Restraint becomes the ultimate luxury when everything chosen is perfect."
+        },
+        {
+          "id": "final-thought",
+          "heading": "A Final Thought",
+          "body": "Minimal luxury is not a trend with an expiry date. It is a sensibility — one that values quality over quantity, presence over performance. As beauty evolves in 2026, this quiet confidence may be its most enduring statement.",
+          "image": "/images/trending-1.jpg"
+        }
+      ],
+      "quote": {
+        "text": "Beauty is not about perfection. It is about presence — the quiet confidence of skin that breathes.",
+        "author": "Charlotte Tilbury",
+        "role": "Founder & Creative Director"
+      },
+      "tags": ["BEAUTY", "LUXURY", "SKINCARE", "TRENDS", "MINIMAL"],
+      "atAGlance": [
+        { "label": "Trend", "value": "Minimal Luxury" },
+        { "label": "Season", "value": "Spring 2026" },
+        { "label": "Key Products", "value": "Tinted Serums, Skin Tints" },
+        { "label": "Top Brands", "value": "La Mer, Sisley, Chanel" },
+        { "label": "Editor's Take", "value": "Refined restraint, always" }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "skincare-rituals-loved-by-the-pros",
+      "category": "BEAUTY",
+      "title": "Skincare Rituals Loved by the Pros",
+      "subtitle": "Industry insiders share the daily practices behind their most luminous skin.",
+      "date": "MAY 14, 2026",
+      "readTime": "7 min read",
+      "image": "/images/trending-3.jpg",
+      "heroImage": "/images/trending-3.jpg",
+      "author": {
+        "name": "Clara Thorne",
+        "slug": "clara-thorne",
+        "avatar": "/images/trending-1.jpg"
+      },
+      "seo": {
+        "metaTitle": "Skincare Rituals Loved by the Pros | Noiré Beauty",
+        "metaDescription": "Professional makeup artists and skin experts reveal their non-negotiable skincare rituals for 2026.",
+        "keywords": ["skincare rituals", "pro skincare", "beauty routines", "expert tips"]
+      },
+      "sections": [
+        {
+          "id": "morning-ritual",
+          "heading": "The Morning Ritual",
+          "body": "Every makeup artist will tell you the same thing: skin prep is everything. A gentle cleanse, a hydrating essence, and SPF form the non-negotiable trio that professionals swear by before any product touches the face."
+        },
+        {
+          "id": "evening-recovery",
+          "heading": "Evening Recovery",
+          "body": "Nighttime is when real transformation happens. Double cleansing removes every trace of the day, while targeted serums — retinol, peptides, niacinamide — work overnight to repair, renew, and restore. Pros call it 'beauty sleep, accelerated.'",
+          "image": "/images/trending-2.jpg"
+        },
+        {
+          "id": "weekly-rituals",
+          "heading": "The Weekly Non-Negotiables",
+          "body": "Beyond the daily routine, the pros carve out time for deeper rituals: a clay mask mid-week, a gua sha session on Sunday mornings, a sheet mask on days that need rescuing. These aren't indulgences — they're maintenance."
+        },
+        {
+          "id": "insider-picks",
+          "heading": "Insider Picks for 2026",
+          "body": "This season's most recommended products include Tatcha's The Dewy Skin Cream, Drunk Elephant's T.L.C. Sukari Babyfacial, and the SKII Facial Treatment Essence — classics reimagined for a new era of skincare.",
+          "image": "/images/trending-3.jpg"
+        }
+      ],
+      "quote": {
+        "text": "Your skin is your most important canvas. Treat it like the luxury it is, every single morning.",
+        "author": "Hung Vanngo",
+        "role": "Celebrity Makeup Artist"
+      },
+      "tags": ["SKINCARE", "BEAUTY RITUALS", "EXPERT TIPS", "WELLNESS"],
+      "atAGlance": [
+        { "label": "Focus", "value": "Skincare Routines" },
+        { "label": "Best For", "value": "All Skin Types" },
+        { "label": "Key Steps", "value": "Cleanse, Treat, Protect" },
+        { "label": "Top Picks", "value": "Tatcha, SKII, Drunk Elephant" },
+        { "label": "Editor's Take", "value": "Consistency beats complexity" }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "modern-romance-2026-wedding-trends",
+      "category": "BEAUTY",
+      "title": "Modern Romance: 2026 Wedding Trends",
+      "subtitle": "Bridal beauty this year is softer, more personal, and more luminous than ever before.",
+      "date": "MAY 07, 2026",
+      "readTime": "5 min read",
+      "image": "/images/trending-2.jpg",
+      "heroImage": "/images/trending-2.jpg",
+      "author": {
+        "name": "Clara Thorne",
+        "slug": "clara-thorne",
+        "avatar": "/images/trending-1.jpg"
+      },
+      "seo": {
+        "metaTitle": "Modern Romance: 2026 Wedding Beauty Trends | Noiré",
+        "metaDescription": "From dewy skin to barely-there lips, discover the bridal beauty trends defining weddings in 2026.",
+        "keywords": ["bridal beauty", "wedding trends 2026", "bridal makeup", "wedding skincare"]
+      },
+      "sections": [
+        {
+          "id": "dewy-bridal-skin",
+          "heading": "Dewy Bridal Skin",
+          "body": "The matte bridal look is officially in the past. 2026 brides are embracing luminous, glass-like skin — achieved through weeks of skin prep, hydrating masks, and the lightest possible coverage on the day itself.",
+          "image": "/images/trending-1.jpg"
+        },
+        {
+          "id": "barely-there-lips",
+          "heading": "Barely-There Lips",
+          "body": "Nudes, roses, and soft mauves dominate the bridal lip palette. The goal is lips that look naturally perfect — enhanced but not overdone, romantic without being theatrical."
+        },
+        {
+          "id": "the-fresh-eye",
+          "heading": "The Fresh Eye",
+          "body": "Eyes are kept open, fresh, and luminous. Brown liners replace harsh blacks, champagne shadows add dimension without drama, and lashes are lifted rather than loaded. The result is a bride who looks completely herself.",
+          "image": "/images/trending-2.jpg"
+        },
+        {
+          "id": "lasting-all-day",
+          "heading": "Making It Last",
+          "body": "Bridal beauty pros recommend starting with a hydrating primer, setting with a fine mist rather than heavy powder, and keeping blotting papers on hand for touch-ups. The secret to bridal beauty is looking effortless from ceremony to the last dance."
+        }
+      ],
+      "quote": {
+        "text": "A bride should look like herself — only the most radiant, joyful version of herself.",
+        "author": "Bobbi Brown",
+        "role": "Beauty Pioneer"
+      },
+      "tags": ["BRIDAL", "WEDDING", "BEAUTY TRENDS", "MAKEUP"],
+      "atAGlance": [
+        { "label": "Occasion", "value": "Weddings 2026" },
+        { "label": "Key Look", "value": "Luminous, Natural" },
+        { "label": "Lip Trend", "value": "Soft Nudes & Roses" },
+        { "label": "Eye Trend", "value": "Lifted, Open Lashes" },
+        { "label": "Editor's Take", "value": "Effortless romance wins" }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "top-collections-to-know-from-paris-couture-week",
+      "category": "BEAUTY",
+      "title": "Top Collections to Know from Paris Couture Week",
+      "subtitle": "The beauty moments from the haute couture shows that will shape the rest of the year.",
+      "date": "MAY 16, 2026",
+      "readTime": "8 min read",
+      "image": "/images/trending-1.jpg",
+      "heroImage": "/images/trending-1.jpg",
+      "author": {
+        "name": "Clara Thorne",
+        "slug": "clara-thorne",
+        "avatar": "/images/trending-1.jpg"
+      },
+      "seo": {
+        "metaTitle": "Top Collections from Paris Couture Week 2026 | Noiré Beauty",
+        "metaDescription": "From Dior to Chanel, discover the beauty looks and collections that defined Paris Couture Week 2026.",
+        "keywords": ["Paris Couture Week", "couture beauty", "Dior", "Chanel", "fashion week 2026"]
+      },
+      "sections": [
+        {
+          "id": "dior-sculptural-beauty",
+          "heading": "Dior: Sculptural Beauty",
+          "body": "Maria Grazia Chiuri sent models down the runway with architectural skin — high cheekbones accentuated with precise contouring, eyes framed with graphic liner, and lips in the deepest, most sculpted rose. Beauty as architecture.",
+          "image": "/images/trending-4.jpg"
+        },
+        {
+          "id": "chanel-effortless-parisienne",
+          "heading": "Chanel: The Effortless Parisienne",
+          "body": "As always, Chanel offered the beauty counterpoint — skin that looked as though it had never been touched by a brush, a single stroke of mascara, a barely-there lip. The ultimate Parisian paradox: looking this good takes extraordinary effort."
+        },
+        {
+          "id": "valentino-romantic-maximalism",
+          "heading": "Valentino: Romantic Maximalism",
+          "body": "Pierpaolo Piccioli leaned into drama — rose-flushed cheeks, deep berry lips, and eyes rimmed in the softest kohl. It was beauty that matched the theatricality of the clothes: unapologetically romantic and deeply feminine.",
+          "image": "/images/trending-3.jpg"
+        },
+        {
+          "id": "key-takeaways",
+          "heading": "Key Takeaways for Your Own Look",
+          "body": "Whether you take inspiration from Dior's precision, Chanel's restraint, or Valentino's romance, the overarching lesson from couture week is the same: invest in technique. A well-applied lip, properly blended contour, or expertly curled lash transforms everything."
+        }
+      ],
+      "quote": {
+        "text": "Couture is not just about clothing. It is about emotion, heritage, and the future of craftsmanship.",
+        "author": "Maria Grazia Chiuri",
+        "role": "Creative Director, Dior"
+      },
+      "tags": ["COUTURE", "PARIS", "FASHION WEEK", "BEAUTY TRENDS", "LUXURY"],
+      "atAGlance": [
+        { "label": "Event", "value": "Paris Couture Week 2026" },
+        { "label": "Location", "value": "Paris, France" },
+        { "label": "Key Themes", "value": "Sculpture, Romance, Restraint" },
+        { "label": "Top Maisons", "value": "Dior, Chanel, Valentino" },
+        { "label": "Editor's Take", "value": "Technique above all else" }
+      ]
+    }
+  ]
+}

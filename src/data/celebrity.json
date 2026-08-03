@@ -1,0 +1,41 @@
+{
+  "category": "Celebrity",
+  "articles": [
+    {
+      "id": 1,
+      "category": "CELEBRITY",
+      "title": "The New Generation of Couture",
+      "subtitle": "Rising stars redefine red carpet glamour with bold, sculptural silhouettes.",
+      "date": "MAY 18, 2026",
+      "image": "/images/trending-1.jpg",
+      "author": { "name": "Marcus Sterling", "slug": "marcus-sterling" }
+    },
+    {
+      "id": 2,
+      "category": "CELEBRITY",
+      "title": "Inside Fashion Month Beauty Trends",
+      "subtitle": "From dewy skin to graphic liners, the looks that dominated the runways.",
+      "date": "MAY 17, 2026",
+      "image": "/images/trending-2.jpg",
+      "author": { "name": "Marcus Sterling", "slug": "marcus-sterling" }
+    },
+    {
+      "id": 3,
+      "category": "CELEBRITY",
+      "title": "Luxury Living Reimagined",
+      "subtitle": "Inside the stunning homes of today's most influential style icons.",
+      "date": "MAY 16, 2026",
+      "image": "/images/trending-3.jpg",
+      "author": { "name": "Marcus Sterling", "slug": "marcus-sterling" }
+    },
+    {
+      "id": 4,
+      "category": "CELEBRITY",
+      "title": "The Most Elegant Red Carpet Moments",
+      "subtitle": "A look back at the season's most unforgettable red carpet arrivals.",
+      "date": "MAY 15, 2026",
+      "image": "/images/trending-4.jpg",
+      "author": { "name": "Marcus Sterling", "slug": "marcus-sterling" }
+    }
+  ]
+}

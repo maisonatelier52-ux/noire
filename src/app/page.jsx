@@ -1,30 +1,24 @@
 import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
-import TrendingSection from "@/components/TrendingSection";
-import EditorsSection from "@/components/EditorsSection";
-import StyleEditSection from "@/components/StyleEditSection";
-import styleEditData from "@/data/styleEdit.json";
-import fashionNewsData from "@/data/fashionNews.json";
-import VideoSpotlightSection from "@/components/VideoSpotlightSection";
+import FashionSection from "@/components/FashionSection";
+import BeautySection from "@/components/BeautySection";
+import CategoryGridSection from "@/components/CategoryGridSection";
+import lifestyleData from "@/data/lifestyle.json";
+import celebrityData from "@/data/celebrity.json";
+import CultureSection from "@/components/CultureSection";
 import Footer from "@/components/Footer";
+
 export default function Home() {
   return (
     <>
       <Header />
-
       <main>
         <HeroSection />
-<TrendingSection />
-<EditorsSection />
-<StyleEditSection
-  title="Lifestyle"
-  data={styleEditData}
-/>
-<VideoSpotlightSection />
-<StyleEditSection
-  title="Celebrity"
-  data={fashionNewsData}
-/>
+        <FashionSection />
+        <BeautySection />
+<CategoryGridSection title="LIFESTYLE" data={lifestyleData.articles} />
+        <CultureSection />
+<CategoryGridSection title="CELEBRITY" data={celebrityData.articles} />
       </main>
       <Footer />
     </>

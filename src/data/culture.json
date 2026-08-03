@@ -1,0 +1,54 @@
+{
+  "category": "Culture",
+  "image": "/images/trending-4.jpg",
+  "title": "Inside the World of Couture 2026",
+  "description": "An exclusive look behind the scenes at the most breathtaking couture creations of the season.",
+  "featuredDate": "MAY 18, 2026",
+  "articles": [
+    {
+      "id": 1,
+      "category": "CULTURE",
+      "title": "The Most Talked About Looks This Week",
+      "subtitle": "From the Met Gala to Paris, these looks dominated the conversation.",
+      "date": "MAY 05, 2026",
+      "image": "/images/trending-1.jpg",
+      "author": { "name": "Margaret Hayes", "slug": "margaret-hayes" }
+    },
+    {
+      "id": 2,
+      "category": "CULTURE",
+      "title": "The Makeup Trends Taking Over Fashion Month",
+      "subtitle": "Graphic liners, glossy lids, and bold lips – the standout beauty moments.",
+      "date": "MAY 07, 2026",
+      "image": "/images/trending-2.jpg",
+      "author": { "name": "Margaret Hayes", "slug": "margaret-hayes" }
+    },
+    {
+      "id": 3,
+      "category": "CULTURE",
+      "title": "Luxury Interiors Inspired by Couture",
+      "subtitle": "How the textures and silhouettes of high fashion are shaping interior design.",
+      "date": "MAY 09, 2026",
+      "image": "/images/trending-3.jpg",
+      "author": { "name": "Margaret Hayes", "slug": "margaret-hayes" }
+    },
+    {
+      "id": 4,
+      "category": "CULTURE",
+      "title": "Best Dressed Stars of the Season",
+      "subtitle": "Our roundup of the celebrities who nailed their red carpet looks.",
+      "date": "MAY 11, 2026",
+      "image": "/images/trending-1.jpg",
+      "author": { "name": "Margaret Hayes", "slug": "margaret-hayes" }
+    },
+    {
+      "id": 5,
+      "category": "CULTURE",
+      "title": "Luxury Interiors Inspired by Couture",
+      "subtitle": "Another take on how couture influences the spaces we live in.",
+      "date": "MAY 09, 2026",
+      "image": "/images/trending-3.jpg",
+      "author": { "name": "Margaret Hayes", "slug": "margaret-hayes" }
+    }
+  ]
+}

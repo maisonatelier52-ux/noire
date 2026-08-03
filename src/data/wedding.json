@@ -1,0 +1,59 @@
+{
+  "category": "Wedding",
+  "articles": [
+    {
+      "id": 5,
+      "category": "WEDDING",
+      "title": "What This Trend Means for Fashion",
+      "subtitle": "How bridal fashion is evolving with the latest runway trends.",
+      "date": "MAY 15, 2026",
+      "image": "/images/trending-2.jpg",
+      "author": { "name": "Sophie Hart", "slug": "sophie-hart" }
+    },
+    {
+      "id": 6,
+      "category": "WEDDING",
+      "title": "Best Dressed Stars This Week",
+      "subtitle": "The celebrity weddings that had everyone talking.",
+      "date": "MAY 14, 2026",
+      "image": "/images/trending-3.jpg",
+      "author": { "name": "Sophie Hart", "slug": "sophie-hart" }
+    },
+    {
+      "id": 7,
+      "category": "WEDDING",
+      "title": "Luxury Travel Destinations for 2026",
+      "subtitle": "Where to go for the most unforgettable honeymoon experience.",
+      "date": "MAY 13, 2026",
+      "image": "/images/trending-4.jpg",
+      "author": { "name": "Sophie Hart", "slug": "sophie-hart" }
+    },
+    {
+      "id": 8,
+      "category": "WEDDING",
+      "title": "Luxury Travel Destinations for 2026",
+      "subtitle": "Exclusive resorts and hidden gems for newlyweds.",
+      "date": "MAY 13, 2026",
+      "image": "/images/trending-4.jpg",
+      "author": { "name": "Sophie Hart", "slug": "sophie-hart" }
+    },
+    {
+      "id": 9,
+      "category": "WEDDING",
+      "title": "Luxury Travel Destinations for 2026",
+      "subtitle": "Top destinations for a truly luxurious post-wedding getaway.",
+      "date": "MAY 13, 2026",
+      "image": "/images/trending-4.jpg",
+      "author": { "name": "Sophie Hart", "slug": "sophie-hart" }
+    },
+    {
+      "id": 10,
+      "category": "WEDDING",
+      "title": "Best Dressed Stars This Week",
+      "subtitle": "From royal weddings to star-studded ceremonies, see who wore what.",
+      "date": "MAY 14, 2026",
+      "image": "/images/trending-3.jpg",
+      "author": { "name": "Sophie Hart", "slug": "sophie-hart" }
+    }
+  ]
+}
